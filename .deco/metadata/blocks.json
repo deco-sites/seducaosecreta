@@ -103,5 +103,17 @@
   "/.deco/blocks/deco-ai-assistant.json": {
     "blockType": "apps",
     "__resolveType": "site/apps/deco/ai-assistant.ts"
+  },
+  "/.deco/blocks/pages-Home%2520Copy-446001.json": {
+    "name": "Home Copy",
+    "path": "/example-path",
+    "blockType": "pages",
+    "__resolveType": "website/pages/Page.tsx"
+  },
+  "/.deco/blocks/pages-Home%2520Copy-777898.json": {
+    "name": "Home Copy",
+    "path": "/example-path",
+    "blockType": "pages",
+    "__resolveType": "website/pages/Page.tsx"
   }
 }
