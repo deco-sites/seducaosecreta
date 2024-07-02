@@ -26,13 +26,7 @@
     "success": "#008060"
   },
   "font": {
-    "__resolveType": "website/loaders/fonts/googleFonts.ts",
-    "fonts": [
-      {
-        "variations": [],
-        "family": "Shrikhand"
-      }
-    ]
+    "__resolveType": "website/loaders/fonts/local.ts"
   },
   "mode": "light"
 }
