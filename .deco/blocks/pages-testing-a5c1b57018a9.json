@@ -8,8 +8,20 @@
     {
       "__resolveType": "site/sections/Hero.tsx",
       "title": "<p>O tempo está <strong><u>acabando</u></strong>!</p>",
-      "cta": [],
-      "description": "Bom, se você chegou aqui, é por que você tem um propósito e se identificou com tudo que viu anteriormente, mas não se preocupe, aqui temos uma solução!"
+      "cta": [
+        {
+          "id": "asd",
+          "text": "asdasdasd",
+          "href": "https://pay.hotmart.com/I91908162M?off=ce95alhu&_hi=eyJjaWQiOiIxNzE4OTI0MjY3MjQ5MzM5OTY1OTk4NTY1MTY3NTAwIiwiYmlkIjoiMTcxODkyNDI2NzI0OTMzOTk2NTk5ODU2NTE2NzUwMCIsInNpZCI6IjMxNDI2NDU4MTk3ZjQyZTlhYTVjN2Y5NjU0MGZiODU5In0=.1719945041572"
+        },
+        {
+          "text": "Quero mudar de vida!",
+          "href": "https://pay.hotmart.com/I91908162M?off=ce95alhu&_hi=eyJjaWQiOiIxNzE4OTI0MjY3MjQ5MzM5OTY1OTk4NTY1MTY3NTAwIiwiYmlkIjoiMTcxODkyNDI2NzI0OTMzOTk2NTk5ODU2NTE2NzUwMCIsInNpZCI6IjMxNDI2NDU4MTk3ZjQyZTlhYTVjN2Y5NjU0MGZiODU5In0=.1719945328930",
+          "id": "comprar"
+        }
+      ],
+      "description": "Saiba como Carol, Salvou seu relacionamento, fazendo dizendo apenas 12 palavras.",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11029/b14048e5-477a-477b-87aa-988a192014d2"
     },
     {
       "__resolveType": "site/sections/Logos.tsx",
