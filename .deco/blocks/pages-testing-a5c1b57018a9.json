@@ -7,7 +7,7 @@
     },
     {
       "__resolveType": "site/sections/Hero.tsx",
-      "title": "<p>O tempo está acabando!</p>",
+      "title": "<p>O tempo está <strong><u>acabando</u></strong>!</p>",
       "cta": [],
       "description": "Bom, se você chegou aqui, é por que você tem um propósito e se identificou com tudo que viu anteriormente, mas não se preocupe, aqui temos uma solução!"
     },
