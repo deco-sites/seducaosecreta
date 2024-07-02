@@ -1,0 +1,39 @@
+{
+  "name": "Home",
+  "path": "/",
+  "sections": [
+    {
+      "__resolveType": "Header"
+    },
+    {
+      "__resolveType": "site/sections/Hero.tsx",
+      "title": "<p>O tempo está acabando!</p>",
+      "cta": [],
+      "description": "Bom, se você chegou aqui, é por que você tem um propósito e se identificou com tudo que viu anteriormente, mas não se preocupe, aqui temos uma solução!"
+    },
+    {
+      "__resolveType": "site/sections/Logos.tsx",
+      "title": "Parceiros"
+    },
+    {
+      "__resolveType": "site/sections/ImageWithParagraph.tsx"
+    },
+    {
+      "__resolveType": "site/sections/ImageWithParagraph.tsx",
+      "placement": "right"
+    },
+    {
+      "__resolveType": "site/sections/BlogPosts.tsx"
+    },
+    {
+      "__resolveType": "site/sections/Testimonials.tsx"
+    },
+    {
+      "__resolveType": "site/sections/Faq.tsx"
+    },
+    {
+      "__resolveType": "Footer"
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx"
+}
