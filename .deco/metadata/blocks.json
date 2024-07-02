@@ -77,7 +77,6 @@
   },
   "/.deco/blocks/pages-testing-a5c1b57018a9.json": {
     "name": "Home",
-    "path": "/",
     "blockType": "pages",
     "__resolveType": "website/pages/Page.tsx"
   },
@@ -100,5 +99,9 @@
   "/.deco/blocks/Footer.json": {
     "blockType": "sections",
     "__resolveType": "site/sections/Footer.tsx"
+  },
+  "/.deco/blocks/deco-ai-assistant.json": {
+    "blockType": "apps",
+    "__resolveType": "site/apps/deco/ai-assistant.ts"
   }
 }
